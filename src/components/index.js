@@ -20,7 +20,6 @@ import DataValues from "./DataValues/DataValues";
 import Whychooseblocks from "./Whychooseblocks/Whychooseblocks";
 import Map from "./Map/Map";
 import Godavaricontactus from "./Godavaricontactus/Godavaricontactus";
-import CoreValuesComponent from "./CoreValuesComponent/CoreValuesComponent";
 import Contactusbutton from "./Contactusbutton/Contactusbutton";
 import Title from "./Title/Title";
 import SpecificationValues from "./SpecificationValues/SpecificationValues";
@@ -40,7 +39,6 @@ export {
   Improvingpeople,
   Godavariaboutus,
   Yourdreamhouse,
-  CoreValuesComponent,
   Road,
   Map,
   Ourculture,
