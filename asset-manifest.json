@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/godavari/static/css/main.eabd6e85.css",
-    "main.js": "/godavari/static/js/main.0b59250f.js",
-    "static/media/image.svg": "/godavari/static/media/image.903d96f25f43bc7c988e11c60b043910.svg",
+    "main.css": "/godavari/static/css/main.702a7a4c.css",
+    "main.js": "/godavari/static/js/main.79d85d44.js",
     "static/media/Propimages1.svg": "/godavari/static/media/Propimages1.6c036401328d5b11a5308f7129aa5e9c.svg",
-    "static/media/Ourvision.svg": "/godavari/static/media/Ourvision.9d6303278cf5b7a12d2c160ce697554d.svg",
     "static/media/Propimage2.svg": "/godavari/static/media/Propimage2.4ffa03585b07ed5c9c835936eda3f9e8.svg",
-    "static/media/Whyus.svg": "/godavari/static/media/Whyus.dcd00b23bc0fbed18971ea008c887830.svg",
     "static/media/amenities.png": "/godavari/static/media/amenities.04caeb4d0d51b5f4abdc.png",
     "static/media/brands.png": "/godavari/static/media/brands.a603067268d93a3f4ac6.png",
     "static/media/img1.svg": "/godavari/static/media/img1.6b38f1f2901bfcb1d5711fa0afe26e65.svg",
@@ -27,13 +24,9 @@
     "static/media/Properties1.jpg": "/godavari/static/media/Properties1.d5989907cd6d740d4f20.jpg",
     "static/media/houseimage.jpg": "/godavari/static/media/houseimage.a52ba2fe5b5fee6c328a.jpg",
     "static/media/floorplan.jpeg": "/godavari/static/media/floorplan.80dbd01e71928dba291e.jpeg",
-    "static/media/ImmaculateDesign.jpg": "/godavari/static/media/ImmaculateDesign.34834795fdd3091ceb63.jpg",
-    "static/media/prompt-service.jpg": "/godavari/static/media/prompt-service.d8a75be61d2be41503cd.jpg",
     "static/media/happyboy.png": "/godavari/static/media/happyboy.7994b3945dad5e69a821.png",
     "static/media/stiltfloor.jpeg": "/godavari/static/media/stiltfloor.e353a7322f7632581f15.jpeg",
-    "static/media/valuefor-money.jpg": "/godavari/static/media/valuefor-money.b31e92d75c93ec9e177a.jpg",
     "static/media/happygirl.png": "/godavari/static/media/happygirl.fbc7980a021a4b4fa0cf.png",
-    "static/media/happy-community.jpg": "/godavari/static/media/happy-community.a0b012025f68a0a3438a.jpg",
     "static/media/paint.svg": "/godavari/static/media/paint.a91da944851d73e4df5e11938813e7c2.svg",
     "static/media/menu-close.svg": "/godavari/static/media/menu-close.ff588b71f2832c04306aded0ed395e26.svg",
     "static/media/menu-open.svg": "/godavari/static/media/menu-open.47c1ebf4b5cfa620922cb036bcc66e5a.svg",
@@ -60,11 +53,11 @@
     "static/media/flooring.svg": "/godavari/static/media/flooring.9e7f0b71a1fd72adaf16ae1c538a1481.svg",
     "static/media/structure1.svg": "/godavari/static/media/structure1.e85723a353af45cb901f1e55c93db847.svg",
     "static/media/vector2.svg": "/godavari/static/media/vector2.77391b13867410f1f49ac747e8115dd6.svg",
-    "main.eabd6e85.css.map": "/godavari/static/css/main.eabd6e85.css.map",
-    "main.0b59250f.js.map": "/godavari/static/js/main.0b59250f.js.map"
+    "main.702a7a4c.css.map": "/godavari/static/css/main.702a7a4c.css.map",
+    "main.79d85d44.js.map": "/godavari/static/js/main.79d85d44.js.map"
   },
   "entrypoints": [
-    "static/css/main.eabd6e85.css",
-    "static/js/main.0b59250f.js"
+    "static/css/main.702a7a4c.css",
+    "static/js/main.79d85d44.js"
   ]
 }
